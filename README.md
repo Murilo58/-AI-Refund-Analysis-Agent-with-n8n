@@ -102,13 +102,14 @@ O fluxo inclui:
 
 ## Estrutura do Projeto
 
-```bash
+```text
 README.md
 /imagens
    mensagem-telegram.jpeg
    fluxo-completo.png
    fluxo-sucesso.png
    email-reembolso.png
+```
 
 ## Melhorias Futuras
 
@@ -135,3 +136,5 @@ Integrações
 
 GitHub:
 https://github.com/Murilo58
+
+

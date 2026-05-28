@@ -122,19 +122,20 @@ README.md
 - Banco vetorial
 - Multiagentes IA
 
-## Autor
+  ## Autor
 
-Murilo Guimarães Costa
+# Murilo Guimarães Costa
 
 Especialista em Projetos, Automação e IA Aplicada.
 
-Open Finance
-Gestão de Projetos
-Inteligência Artificial
-n8n Automation
-Integrações
+### Áreas de atuação
+- Open Finance
+- Gestão de Projetos
+- Inteligência Artificial
+- n8n Automation
+- Integrações
 
-GitHub:
+### GitHub
 https://github.com/Murilo58
 
 
